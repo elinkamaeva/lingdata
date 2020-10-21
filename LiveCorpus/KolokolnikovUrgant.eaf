@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-10-15T23:10:30+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-10-20T21:30:55+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/elinakamaeva/Desktop/elan/KolokolnikovUrgant.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./KolokolnikovUrgant.mp4"/>
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/elinakamaeva/Desktop/elan/KolokolnikovUrgant (online-audio-converter.com).wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./KolokolnikovUrgant (online-audio-converter.com).wav"/>
@@ -2023,7 +2023,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts80">
-                <ANNOTATION_VALUE>ему ж-то #смеётся# нет / там было посложнее</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ему ж #смеётся# нет / там было посложнее</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5097,7 +5097,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5259" TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts71">
-                <ANNOTATION_VALUE>ж-то</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ж</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
