@@ -556,7 +556,7 @@
 553	говорится	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	_	_	_	words@yak1980m#@yak1980m#415.68#416.3
 554	/	/	PUNCT	_	_	_	_	_	words@yak1980m#@yak1980m#416.3#416.59
 555	/	/	PUNCT	_	_	_	_	_	words@yak1980m#@yak1980m#416.59#416.87
-556	что	что	PRON	_	_	_	_	_	words@yak1980m#@yak1980m#416.87#417.14
+556	что	что	PRON	_	Case=Nom	_	_	_	words@yak1980m#@yak1980m#416.87#417.14
 557	?	?	PUNCT	_	_	_	_	_	words@yak1980m#@yak1980m#417.14#417.31
 558	#смеётся#	#смеётся#	X	_	_	_	_	_	words@yak1980m#@yak1980m#417.31#418.6
 559	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3	_	_	_	words@yak1980m#@yak1980m#420.205#420.57
