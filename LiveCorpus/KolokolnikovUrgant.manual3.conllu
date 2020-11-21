@@ -1574,7 +1574,7 @@
 1571	/	/	PUNCT	_	_	_	_	_	words@yak1980m#@yak1980m#780.81#780.88
 1572	/	/	PUNCT	_	_	_	_	_	words@yak1980m#@yak1980m#780.88#780.95
 1573	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@yak1980m#@yak1980m#780.95#781.11
-1574	дума...	ддумать	VERB _  Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@yak1980m#@yak1980m#781.11#781.37
+1574	дума...	думать	VERB _  Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@yak1980m#@yak1980m#781.11#781.37
 1575	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@yak1980m#@yak1980m#781.37#781.54
 1576	уверен	уверенный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	_	_	_	words@yak1980m#@yak1980m#781.54#781.89
 1577	/	/	PUNCT	_	_	_	_	_	words@yak1980m#@yak1980m#781.89#781.99
