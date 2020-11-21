@@ -181,7 +181,7 @@
 178	всё	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@iau1978m#@iau1978m#539.44#539.68
 179	/	/	PUNCT	_	_	_	_	_	words@iau1978m#@iau1978m#539.68#539.77
 180	всё	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@iau1978m#@iau1978m#539.77#540.05
-181	больша... большой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@iau1978m#@iau1978m#540.05#540.33
+181	больша...	большой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@iau1978m#@iau1978m#540.05#540.33
 182	большая	большой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@iau1978m#@iau1978m#540.33#540.61
 183	тайна	тайна	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@iau1978m#@iau1978m#540.61#540.902
 184	когда	когда	SCONJ	_	_	_	_	_	words@iau1978m#@iau1978m#540.902#541.35
@@ -567,7 +567,7 @@
 564	там	там	ADV	_	Degree=Pos	_	_	_	words@yak1980m#@yak1980m#423.05#423.2
 565	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@yak1980m#@yak1980m#423.2#423.42
 566	посложнее	сложный	ADJ	_	Degree=Cmp	_	_	_	words@yak1980m#@yak1980m#423.42#424.005
-567	эээ	эээ	INTJ	_   _  	_	_	_	words@yak1980m#@yak1980m#424.7#425.03
+567	эээ	эээ	INTJ	_	_	_	_	_	words@yak1980m#@yak1980m#424.7#425.03
 568	/	/	PUNCT	_	_	_	_	_	words@yak1980m#@yak1980m#425.03#425.365
 569	/	/	PUNCT	_	_	_	_	_	words@yak1980m#@yak1980m#425.365#425.7
 570	ну	ну	PART	_	_	_	_	_	words@yak1980m#@yak1980m#425.7#426.03
@@ -1397,8 +1397,8 @@
 1394	/	/	PUNCT	_	_	_	_	_	words@yak1980m#@yak1980m#708.76#708.82
 1395	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	words@yak1980m#@yak1980m#708.82#708.94
 1396	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@yak1980m#@yak1980m#708.94#709.09
-1397	/	/	PUNCT	_	_	_	_	_	words@yak1980m#@yak1980m#709.09#709.13
-1398
+1397	/	/	PUNCT	_	_	_	_	_	words@yak1980m#@yak1980m#709.09#709.11
+1398	/	/	PUNCT	_	_	_	_	_	words@yak1980m#@yak1980m#709.11#709.13
 1399	честно	честно	ADV	_	Degree=Pos	_	_	_	words@yak1980m#@yak1980m#709.13#709.35
 1400	говоря	говорить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	_	_	_	words@yak1980m#@yak1980m#709.35#709.49
 1401	/	/	PUNCT	_	_	_	_	_	words@yak1980m#@yak1980m#709.49#709.63
@@ -1574,7 +1574,7 @@
 1571	/	/	PUNCT	_	_	_	_	_	words@yak1980m#@yak1980m#780.81#780.88
 1572	/	/	PUNCT	_	_	_	_	_	words@yak1980m#@yak1980m#780.88#780.95
 1573	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@yak1980m#@yak1980m#780.95#781.11
-1574	дума...	думать	VERB _  Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	words@yak1980m#@yak1980m#781.11#781.37
+1574	дума...	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	words@yak1980m#@yak1980m#781.11#781.37
 1575	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@yak1980m#@yak1980m#781.37#781.54
 1576	уверен	уверенный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	_	_	_	words@yak1980m#@yak1980m#781.54#781.89
 1577	/	/	PUNCT	_	_	_	_	_	words@yak1980m#@yak1980m#781.89#781.99
