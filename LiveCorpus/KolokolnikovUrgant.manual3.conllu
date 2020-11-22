@@ -247,8 +247,8 @@
 244	Лос-Анджелес	Лос-Анджелес	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@iau1978m#@iau1978m#589.86#590.28
 245	/	/	PUNCT	_	_	_	_	_	words@iau1978m#@iau1978m#590.28#590.36
 246	а	а	CCONJ	_	_	_	_	_	words@iau1978m#@iau1978m#590.36#590.46
-247	Лас-Анджелес	Лас-Анджелес	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@iau1978m#@iau1978m#590.46#591.24
-248	Лас-...	Лас-Анджелес	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@iau1978m#@iau1978m#592.32#592.5
+247	Лас-Анджелес	Лос-Анджелес	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@iau1978m#@iau1978m#590.46#591.24
+248	Лас-...	Лос-Анджелес	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@iau1978m#@iau1978m#592.32#592.5
 249	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	words@iau1978m#@iau1978m#592.5#592.68
 250	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	words@iau1978m#@iau1978m#592.68#592.86
 251	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	words@iau1978m#@iau1978m#592.86#593.01
@@ -260,7 +260,7 @@
 257	/	/	PUNCT	_	_	_	_	_	words@iau1978m#@iau1978m#594.05#594.1
 258	а	а	CCONJ	_	_	_	_	_	words@iau1978m#@iau1978m#594.1#594.2
 259	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@iau1978m#@iau1978m#594.2#594.5
-260	Лас-Анджелес	Лас-Анджелес	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@iau1978m#@iau1978m#594.5#595.14
+260	Лас-Анджелес	Лос-Анджелес	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@iau1978m#@iau1978m#594.5#595.14
 261	/	/	PUNCT	_	_	_	_	_	words@iau1978m#@iau1978m#595.14#595.18
 262	/	/	PUNCT	_	_	_	_	_	words@iau1978m#@iau1978m#595.18#595.2
 263	и	и	CCONJ	_	_	_	_	_	words@iau1978m#@iau1978m#595.2#595.29
@@ -1091,7 +1091,7 @@
 1088	снимали	снимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@yak1980m#@yak1980m#582.54#583.21
 1089	около	около	ADP	_	_	_	_	_	words@yak1980m#@yak1980m#583.21#583.85
 1090	Лос-Анжелеса	Лос-Анжелес	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@yak1980m#@yak1980m#583.85#584.552
-1091	Лас-Анджелес	Лac-Анджелес	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@yak1980m#@yak1980m#591.795#592.46
+1091	Лас-Анджелес	Лоc-Анджелес	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@yak1980m#@yak1980m#591.795#592.46
 1092	?	?	PUNCT	_	_	_	_	_	words@yak1980m#@yak1980m#592.46#592.605
 1093	Лос-Анд...	Лос-Анджелес	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@yak1980m#@yak1980m#596.89#598.13
 1094	L.A.	L.A.	X	_	Foreign=Yes|Abbr=Yes	_	_	_	words@yak1980m#@yak1980m#598.99#599.38
