@@ -1094,14 +1094,14 @@
 1091	Лас-Анджелес	Лоc-Анджелес	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@yak1980m#@yak1980m#591.795#592.46
 1092	?	?	PUNCT	_	_	_	_	_	words@yak1980m#@yak1980m#592.46#592.605
 1093	Лос-Анд...	Лос-Анджелес	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@yak1980m#@yak1980m#596.89#598.13
-1094	L.A.	L.A.	X	_	Foreign=Yes|Abbr=Yes	_	_	_	words@yak1980m#@yak1980m#598.99#599.38
+1094	L.A.	L.A.	X	_	Abbr=Yes|Foreign=Yes	_	_	_	words@yak1980m#@yak1980m#598.99#599.38
 1095	/	/	PUNCT	_	_	_	_	_	words@yak1980m#@yak1980m#599.38#599.65
 1096	/	/	PUNCT	_	_	_	_	_	words@yak1980m#@yak1980m#599.65#599.97
 1097	скажем	сказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@yak1980m#@yak1980m#599.97#600.36
 1098	так	так	ADV	_	Degree=Pos	_	_	_	words@yak1980m#@yak1980m#600.36#600.64
 1099	/	/	PUNCT	_	_	_	_	_	words@yak1980m#@yak1980m#600.64#600.74
 1100	/	/	PUNCT	_	_	_	_	_	words@yak1980m#@yak1980m#600.74#600.8
-1101	L.A.	L.A.	X	_	Foreign=Yes|Abbr=Yes	_	_	_	words@yak1980m#@yak1980m#600.8#601.2
+1101	L.A.	L.A.	X	_	Abbr=Yes|Foreign=Yes	_	_	_	words@yak1980m#@yak1980m#600.8#601.2
 1102	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@yak1980m#@yak1980m#603.54#603.9
 1103	снималось	сниматься	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	_	_	_	words@yak1980m#@yak1980m#603.9#604.26
 1104	в	в	ADP	_	_	_	_	_	words@yak1980m#@yak1980m#604.26#604.42
