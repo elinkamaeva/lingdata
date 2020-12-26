@@ -31,7 +31,7 @@
 31	последних	последний	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	_	_	_	words@iau1978m#@iau1978m#410.28#410.66
 32	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	words@iau1978m#@iau1978m#410.66#410.86
 33	?	?	PUNCT	_	_	_	_	_	words@iau1978m#@iau1978m#410.86#411.0
-34	угу	угy	INTJ	_	_	_	_	_	words@iau1978m#@iau1978m#415.54#416.1
+34	угу	угу	INTJ	_	_	_	_	_	words@iau1978m#@iau1978m#415.54#416.1
 35	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	words@iau1978m#@iau1978m#418.6#418.95
 36	так	так	ADV	_	Degree=Pos	_	_	_	words@iau1978m#@iau1978m#418.95#419.22
 37	же	же	PART	_	_	_	_	_	words@iau1978m#@iau1978m#419.22#419.36
@@ -878,7 +878,7 @@
 878	сказать	сказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@yak1980m#@yak1980m#509.99#510.38
 879	/	/	PUNCT	_	_	_	_	_	words@yak1980m#@yak1980m#510.38#510.42
 880	/	/	PUNCT	_	_	_	_	_	words@yak1980m#@yak1980m#510.42#510.46
-881	сконцентрированную	cконцентрированный	ADJ	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	words@yak1980m#@yak1980m#510.46#511.3
+881	сконцентрированную	сконцентрированный	ADJ	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	words@yak1980m#@yak1980m#510.46#511.3
 882	/	/	PUNCT	_	_	_	_	_	words@yak1980m#@yak1980m#511.3#511.44
 883	сложную	сложный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@yak1980m#@yak1980m#511.44#511.88
 884	/	/	PUNCT	_	_	_	_	_	words@yak1980m#@yak1980m#511.88#511.92
